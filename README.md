@@ -1,2 +1,1 @@
-# Ground-file
-C23
+# Box Class
